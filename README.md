@@ -1,5 +1,7 @@
 # blues-generator
 A really bad way to generate blues music.
+## what is the blues?
+The blues is a form of secular folk music created by African Americans in the early 20th century, originally in the South. Although instrumental accompaniment is almost universal in the blues, the blues is essentially a vocal form. Blues songs are usually lyrical rather than narrative because the expression of feelings is foremost.
 ## idea
 Originally I thought it was a good idea to create a script that could supply you with endless blues music. Turns out creating something like that is a bit more tricky than I anticipated.
 ## setup
